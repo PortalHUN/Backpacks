@@ -1,0 +1,7 @@
+name: Backpacks
+version: '${project.version}'
+main: com.portalhun.backpacks.Backpacks
+api-version: 1.19
+authors: [PortalHUN]
+description: Backpacks
+website: https://portalhun.com
